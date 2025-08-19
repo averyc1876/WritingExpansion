@@ -1,12 +1,12 @@
 {
     "type": "code",
     "modid": "writingexpansion",
-    "name": "WritingExpansion",
+    "name": "Writing Expansion",
     "authors": [
-        "Unknown"
+        "averyc1876"
     ],
-    "description": "To be added",
-    "version": "1.0.0",
+    "description": "Adds depth to writing in books and on paper.",
+    "version": "0.0.1",
     "dependencies": {
         "game": ""
     }

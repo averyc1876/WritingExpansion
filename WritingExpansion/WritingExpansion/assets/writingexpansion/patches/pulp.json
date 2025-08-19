@@ -1,0 +1,8 @@
+﻿[
+  {
+    "op": "replace",
+    "path": "/texturesbyType/*-linen/slakedlime",
+    "value": { "base": "writingexpansion:block/liquid/linenpulp" },
+    "file": "game:itemtypes/resource/pulp"
+  }
+]
