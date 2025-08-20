@@ -1,5 +1,7 @@
 {
   "hello": "hello world!",
 
+  // Liquids
+  "item-pulpportion-linen": "Wet linen pulp",
   "incontainer-item-pulpportion-linen": "Wet linen pulp"
 }

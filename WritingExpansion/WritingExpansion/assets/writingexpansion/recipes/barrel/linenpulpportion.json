@@ -1,0 +1,8 @@
+﻿{
+  "code": "linenpulpportion",
+  "ingredients": [
+    { "type": "item", "code": "game:waterportion", "litres": 2 },
+    { "type": "item", "code": "game:pulp-linen", "quantity": 4 }
+  ],
+  "output": { "type": "item", "code": "writingexpansion:pulpportion-linen", "litres": 2.5}
+}

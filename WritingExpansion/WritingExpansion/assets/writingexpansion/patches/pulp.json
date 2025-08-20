@@ -1,8 +1,14 @@
 ﻿[
   {
+    "side": "server",
     "op": "replace",
     "path": "/texturesbyType/*-linen/slakedlime",
     "value": { "base": "writingexpansion:block/liquid/linenpulp" },
     "file": "game:itemtypes/resource/pulp"
-  }
+  },
+  
+  {"side": "server", "op": "add", "path": "/0/enabled", "value": "false", "file": "game:recipes/barrel/pulp"},
+  {"side": "server", "op": "add", "path": "/1/enabled", "value": "false", "file": "game:recipes/barrel/pulp"},
+  {"side": "server", "op": "add", "path": "/2/enabled", "value": "false", "file": "game:recipes/barrel/pulp"},
+  {"side": "server", "op": "add", "path": "/1/enabled", "value": "false", "file": "game:recipes/grid/parchment"}
 ]
