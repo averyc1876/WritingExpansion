@@ -1,0 +1,71 @@
+﻿[
+  {
+    "code": "pulp-linen-1",
+    "perishableProps": { "transitionedStack": {"type": "item", "code": "game:pulp-linen"} },
+    "shape": { "base": "game:block/food/meal/liquid" },
+    "ingredients": [
+      {
+        "code": "water",
+        "validStacks": [ { "type": "item", "code": "game:waterportion", "shapeElement": "game:bowl/water" } ],
+        "minQuantity": 1,
+        "maxQuantity": 1,
+        "portionSizeLitres": 1
+      },
+      {
+        "code": "flax-fibers",
+        "validStacks": [
+          { "type": "item", "code": "game:flaxfibers" }
+        ],
+        "minQuantity": 3,
+        "maxQuantity": 3
+      }
+    ],
+    "cooksInto": { "type": "item", "code": "game:pulp-linen", "quantity": 1 }
+  },
+  {
+    "code": "pulp-linen-2",
+    "perishableProps": { "transitionedStack": {"type": "item", "code": "game:pulp-linen"} },
+    "shape": { "base": "game:block/food/meal/liquid" },
+    "ingredients": [
+      {
+        "code": "water",
+        "validStacks": [ { "type": "item", "code": "game:waterportion", "shapeElement": "game:bowl/water" } ],
+        "minQuantity": 1,
+        "maxQuantity": 1,
+        "portionSizeLitres": 1
+      },
+      {
+        "code": "linen-scrap",
+        "validStacks": [
+          { "type": "item", "code": "game:flaxtwine" }
+        ],
+        "minQuantity": 1,
+        "maxQuantity": 1
+      }
+    ],
+    "cooksInto": { "type": "item", "code": "game:pulp-linen", "quantity": 1 }
+  },
+  {
+    "code": "pulp-linen-3",
+    "perishableProps": { "transitionedStack": {"type": "item", "code": "game:pulp-linen"} },
+    "shape": { "base": "game:block/food/meal/liquid" },
+    "ingredients": [
+      {
+        "code": "water",
+        "validStacks": [ { "type": "item", "code": "game:waterportion", "shapeElement": "game:bowl/water" } ],
+        "minQuantity": 1,
+        "maxQuantity": 1,
+        "portionSizeLitres": 3
+      },
+      {
+        "code": "linen-scrap",
+        "validStacks": [
+          { "type": "item", "code": "game:flaxtwine" }
+        ],
+        "minQuantity": 3,
+        "maxQuantity": 3
+      }
+    ],
+    "cooksInto": { "type": "item", "code": "game:pulp-linen", "quantity": 4 }
+  }
+]
