@@ -2,12 +2,10 @@
     "type": "code",
     "modid": "writingexpansion",
     "name": "Writing Expansion",
-    "authors": [
-        "averyc1876"
-    ],
     "description": "Adds depth to writing in books and on paper.",
-    "version": "0.0.1",
-    "dependencies": {
-        "game": ""
-    }
+    "version": "0.0.2",
+    "authors": ["averyc1876"],
+    "side" : "universal",
+    "requiredOnClient": true,
+    "requiredOnServer": true
 }
