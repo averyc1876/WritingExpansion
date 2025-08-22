@@ -1,7 +1,15 @@
 {
+  // TODO:
+  // add link to linen rag handbook entry for linen pulp
+  // add link to linen rag handbook entry for parchment making step 1
+
   "hello": "hello world!",
 
   // Liquids
   "item-pulpportion-linen": "Wet linen pulp",
-  "incontainer-item-pulpportion-linen": "Wet linen pulp"
+  "incontainer-item-pulpportion-linen": "Wet linen pulp",
+
+  // Handbook entries
+  "craftinginfo-parchmentmaking-title": "Crafting Mechanic: Parchment Making",
+  "craftinginfo-parchmentmaking-text": "There are two ways to make parchment for writing, cutting scraped animal hide or forming sheets from pulped linen.<br>Using hide is easier if you have already made leather but it's less efficient than making it from linen.<br><br>Making parchment from linen is a multi-step process that will require a <a href=\"handbook://block-claypot-blue-fired\">cooking pot</a>, <a href=\"handbook://block-barrel\">barrel</a> and <a href=\"handbook://block-sieve-linen\">sieve</a>, and a place to dry the pages <strong>OR</strong> a <a href=\"handbook://block-fruitpress-ns\">fruit press</a> to dry in bulk. You will need some additional materials, as noted below, that are good to prepare ahead of time.<br><br><strong>Step 1</strong> - Small pieces of linen can be boiled in a cooking pot to break them down. Flax <a href=\"handbook://item-flaxfibers\">fibers</a> and <a href=\"handbook://item-flaxtwine\">twine</a> work, and linen clothing and fabric can be cut into <a href=\"\">rags</a> for this process too. Will make your pot <a href=\"handbook://block-dirtyclaypot-blue-empty\">dirty</a>.<br><strong>Step 2</strong> - Remove the now <a href=\"handbook://item-pulp-linen\">pulped linen</a> from the pot and mix it with water in a barrel to loosen it up.<br><strong>Step 3</strong> - Using a sieve, you can take <a href=\"handbook://item-writingexpansion:pulpportion-linen\">wet pulp</a> from the barrel and form it into sheets which can be placed one the ground to <strong>dry for 8 hours</strong> with <hk>shift</hk> + <hk>rightmouse</hk>.  -<strong>OR</strong>-  Place sheets from the sieve into a fruit press, alternating layers with <a href=\"\">linen fabric</a> to prevent them from sticking together. Using the press will dry the parchment instantly, and it can hold up to 8 sheets at a time.<br><strong>Step 4</strong> - The dry <a href=\"handbook://item-paper-parchment\">parchment</a> can be collected for writing, labelling and book making. If you used a fruit press, you will get your spacer linen back."
 }
